@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 i am Duncan
 
 <a href="https://www.linkedin.com/in/duncan-mwirigi-74a5021ba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
