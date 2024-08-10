@@ -11,7 +11,7 @@ My background in computer science has fueled my passion for cybersecurity. I’m
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/duncan100/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -50,7 +50,7 @@ My background in computer science has fueled my passion for cybersecurity. I’m
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/duncan100/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
 
 <!--
