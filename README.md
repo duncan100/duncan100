@@ -5,7 +5,7 @@
 I’ve spent several years in general IT, where I managed networks, supported systems, and kept everything running smoothly. Now, I’m transitioning into the world of cybersecurity, driven by a passion for protecting the systems I’ve been working with from the ever-evolving landscape of cyber threats.
 
 ## Objective
-My background in computer science has fueled my passion for cybersecurity. I’m eager to transition into this field and start as a Tier 1 Analyst in a Security Operations Center (SOC). I’m excited to use my skills to help protect against security threats and to continue growing in the cybersecurity field.
+My background in computer science has fueled my passion for cybersecurity. I have transitioned into this field and as a Tier 1 Analyst in a Security Operations Center (SOC). I’m excited to use my skills to help protect against security threats and to continue growing in the cybersecurity field.
 
 
 ## Skills
