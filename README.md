@@ -1,69 +1,229 @@
-## Hello, I am Duncan
+<!-- ================= HEADER ================= -->
+<div align="center">
 
-<a href="https://www.linkedin.com/in/duncan-mwirigi-74a5021ba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=1000000&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&lines=Hello%2C+I'm+Duncan+Mwirigi+%F0%9F%91%8B" alt="Typing SVG"/>
 
-I’ve spent several years in general IT, where I managed networks, supported systems, and kept everything running smoothly. Now, I’m transitioning into the world of cybersecurity, driven by a passion for protecting the systems I’ve been working with from the ever-evolving landscape of cyber threats.
+### Technical Support Engineer
 
-## Objective
-My background in computer science has fueled my passion for cybersecurity. I have transitioned into this field as a Tier 3 Analyst in a Security Operations Center (SOC). I’m excited to use my skills to help protect against security threats and to continue growing in the cybersecurity field.
+*Windows • Networking • Linux • Cloud*
 
-
-## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/duncan100/SIEM-LAB?tab=readme-ov-file#-wazuh-home-lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+## 👨‍💻 About Me
+
+```bash
+duncan@github:~$ whoami
+
+Role      : Technical Support Engineer
+Location  : Remote , Remote US, Remote Kenya.
+Focus     : Windows | Networking | Linux | Cloud
+Projects  : Home Labs & IT Infrastructure
+Mission   : Build • Troubleshoot • Document • Automate
+```
+## 💡 My Engineering Philosophy
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🔍 Diagnose
+
+Understand the root cause before applying a solution.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠 Build
+
+Design practical, reliable and scalable IT solutions.
+
+</td>
+
+<td align="center" width="25%">
+
+### 📖 Document
+
+Create documentation that others can follow and learn from.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 Improve
+
+Continuously automate, optimize and improve every environment.
+
+</td>
+
+</tr>
+
+</table>
+
+
+## 💼 What I Bring to the Table
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/🖥️-Systems_Administration-0078D4?style=for-the-badge"/><br/><br/>
+
+Windows Server administration, Active Directory, Group Policy, DNS, DHCP, user management, and enterprise infrastructure deployment.
+
+</td>
+
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/🌐-Networking-FF9800?style=for-the-badge"/><br/><br/>
+
+TCP/IP, routing & switching, VLANs, Cisco Packet Tracer, Wireshark, DNS, DHCP and network troubleshooting.
+
+</td>
+
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/🐧-Linux_&_Automation-43A047?style=for-the-badge"/><br/><br/>
+
+Linux administration, Bash, PowerShell, scripting, process automation and system management.
+
+</td>
+
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/☁️-Cloud_&_Virtualization-8E44AD?style=for-the-badge"/><br/><br/>
+
+Microsoft 365, Azure, AWS, VirtualBox, VMware and modern cloud infrastructure labs.
+
+</td>
+
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/🛠️-IT_Support-00ACC1?style=for-the-badge"/><br/><br/>
+
+Technical troubleshooting, documentation, ticket management, root cause analysis and end-user support.
+
+</td>
+
+</tr>
+</table>
+
+## 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🖥️ Windows Server 2022 Active Directory Lab
+
+**Enterprise Windows Infrastructure**
+
+✔ Active Directory Domain Services
+
+✔ Domain Controller Promotion
+
+✔ DNS Configuration
+
+✔ Windows 11 Domain Join
+
+✔ User & Computer Management
+
+**Tech Stack**
+
+`Windows Server` `Active Directory` `DNS` `VirtualBox`
+
+📖 [Documentation](./technical-support-engineer-labs/...)
+
+🔗 [Repository](https://github.com/yourusername/technical-support-engineer-labs)
+
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Networking Labs
+
+**Enterprise Network Administration**
+
+✔ TCP/IP
+
+✔ DNS & DHCP
+
+✔ VLAN Configuration
+
+✔ Routing & Switching
+
+✔ Network Troubleshooting
+
+**Tech Stack**
+
+`Cisco Packet Tracer` `Wireshark` `TCP/IP`
+
+📖 [Documentation](./technical-support-engineer-labs/...)
+
+🔗 [Repository](https://github.com/yourusername/technical-support-engineer-labs)
+
+</td>
+
+</tr>
+
+</table>
+
+## 🚀 Career Journey
+
+```text
+├── Project Support Analyst
+│   Achieve Test Prep (2022 – Present)
+│   • Salesforce administration & data management
+│   • Technical support and issue resolution
+│   • Documentation and process improvement
+│
+├── Customer Support Representative
+│   CloudFactory Kenya (2018 – 2022)
+│   • Zendesk ticket management
+│   • Customer issue investigation & resolution
+│   • Quality assurance and support operations
+│
+└── ICT Support Assistant
+    Nairobi Water & Sewerage Company
+    • Windows installation & troubleshooting
+    • Hardware, software & printer support
+    • Basic network and user account administration
+```
+
+
+---
+
+## 🏆 Certifications
+
+![Google IT Support](https://img.shields.io/badge/Google_IT_Support-Certified-4285F4?style=for-the-badge&logo=google)
+
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-Certified-34A853?style=for-the-badge&logo=google)
+
+![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-Certified-1BA0D7?style=for-the-badge&logo=cisco)
+
+![AWS](https://img.shields.io/badge/AWS-In_Progress-FF9900?style=for-the-badge&logo=amazonaws)
+---
+
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Duncan_Mwirigi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/duncan-mwirigi-74a5021ba/)
+[![Email](https://img.shields.io/badge/Email-mwirigiikoome@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mwirigiikoome@gmail.com)
+[![X](https://img.shields.io/badge/X-@Koome__mwirigi-000000?style=for-the-badge&logo=x)](https://x.com/Koome__mwirigi)
+[![Instagram](https://img.shields.io/badge/Instagram-@duncan__mwirigi-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/duncan__mwirigi/)
+
+
+
+---
+
+<div align="center">
+
+### "Learning by building. Growing through solving."
+
 </div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-<div>
-<img src="[https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_R9BbHBHcCum8XaX4z_1722154182635_completion_certificate.pdf)" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- <a href="https://github.com/duncan100/Detection-Lab">Detection Lab</a>
-- SOC Automation Project
-
-<!--
-**duncan100/duncan100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
